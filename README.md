@@ -6,6 +6,6 @@ https://rancidsam.github.io/gba
 
 https://github.com/taisel/IodineGBA
 
-# Forked (and shamelessly stolen) from:
+# Forked From:
 
 https://github.com/jsemu2/gba
