@@ -1,6 +1,6 @@
 # GBA Games Page:
 
-https://rancidsam.github.io/gba
+https://webarcade.github.io/gba/
 
 # GBA Emulator Core Used:
 
